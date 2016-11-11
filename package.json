@@ -14,10 +14,11 @@
     "babel-plugin-transform-class-properties": "^6.18.0",
     "babel-preset-latest": "^6.16.0",
     "bluebird": "^3.4.6",
-    "eslint-config-denali": "^1.1.2",
     "denali": "0.0.13",
     "denali-babel": "^0.0.2",
     "denali-eslint": "^0.0.3",
+    "denali-mailer": "0.0.1",
+    "eslint-config-denali": "^1.1.2",
     "lodash": "^4.0.0"
   },
   "devDependencies": {
