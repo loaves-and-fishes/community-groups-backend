@@ -1,6 +1,7 @@
 export default function drawRoutes(router) {
 
   router.get('/', 'index');
+  router.post('/invite', 'invite');
 
   /*
    * # Single routes
