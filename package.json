@@ -2,7 +2,7 @@
   "name": "community-groups-backend",
   "version": "0.0.1",
   "scripts": {
-    "start": "denali server",
+    "start": "denali server --port 80",
     "test": "denali test"
   },
   "private": true,
