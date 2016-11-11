@@ -14,7 +14,7 @@
     "babel-plugin-transform-class-properties": "^6.18.0",
     "babel-preset-latest": "^6.16.0",
     "bluebird": "^3.4.6",
-    "denali": "denali-js/denali#e838b71",
+    "denali": "denali-js/denali#1a0a74b",
     "denali-babel": "0.0.4",
     "denali-eslint": "0.0.5",
     "denali-mailer": "0.0.1",
