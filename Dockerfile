@@ -3,7 +3,7 @@ FROM node:6.9
 
 ENV PORT 80
 
-RUN npm install -g denali-js/denali#1a0a74b
+RUN npm install -g denali-js/denali
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
