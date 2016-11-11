@@ -1,5 +1,5 @@
 {
-  "name": "community-group-backend",
+  "name": "community-groups-backend",
   "version": "0.0.1",
   "scripts": {
     "start": "denali server",
